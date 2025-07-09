@@ -37,7 +37,7 @@ Automate the generation of email drafts in response to inbound messages, leverag
 - **Gmail/Outlook** – Email client integration
 
 ## 📈 Impact
-- ⚡ Reduced average email response drafting time by 90%
+- ⚡ Reduced average email response drafting time by 200%
 - 📬 Increased lead engagement by responding faster and more consistently
 - 🔄 Enabled sales pods to focus on conversion, not manual replies
 
