@@ -43,8 +43,8 @@ Automate the generation of email drafts in response to inbound messages, leverag
 
 ## 🧩 Future Improvements
 - Add CRM syncing (e.g., CDK, VinSolutions)
-- A/B testing engine for response variants
+- Add customized DataStores to tailor responses
 - Add fallback logic for missing template scenarios
 
 ## ▶️ Video Demonstration 
-- Link: 
+- [Link to Demo](https://drive.google.com/file/d/18yLiFyWatzX_zQ0PFpssrd-4tLAAeKq2/view?usp=sharing) 
