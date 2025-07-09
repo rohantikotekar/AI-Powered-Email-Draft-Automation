@@ -10,7 +10,7 @@ Automate the generation of email drafts in response to inbound messages, leverag
 <img width="1182" alt="image" src="https://github.com/user-attachments/assets/c15153bb-a5f0-4db4-a54a-9bdd45ab0087" />
 
 ## GPT Generated Response
-<img width="278" alt="image" src="https://github.com/user-attachments/assets/8d46ec62-eca6-4f86-adba-1fbf0754e1cb" />
+<img width="408" alt="image" src="https://github.com/user-attachments/assets/6952570d-e6ad-4080-9ad8-fff8efd9a3e4" />
 
 ### 🔄 Steps:
 
