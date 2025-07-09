@@ -40,12 +40,12 @@ Automate the generation of email drafts in response to inbound messages, leverag
 - **Gmail/Outlook** – Email client integration
 
 ## 📈 Impact
-- ⚡ Reduced average email response drafting time by 200%
-- 📬 Increased lead engagement by responding faster and more consistently
+- ⚡ Reduced average email response drafting time by 500%
+- - 📬 Increased lead engagement by responding faster and more consistently
 - 🔄 Enabled sales pods to focus on conversion, not manual replies
 
 ## 🧩 Future Improvements
-- Add CRM syncing (e.g., CDK, VinSolutions)
+- Add CRM syncing
 - Add customized DataStores to tailor responses
 - Add fallback logic for missing template scenarios
 
