@@ -41,7 +41,7 @@ Automate the generation of email drafts in response to inbound messages, leverag
 
 ## 📈 Impact
 - ⚡ Reduced average email response drafting time by 500%
-- - 📬 Increased lead engagement by responding faster and more consistently
+- 📬 Increased lead engagement by responding faster and more consistently
 - 🔄 Enabled sales pods to focus on conversion, not manual replies
 
 ## 🧩 Future Improvements
