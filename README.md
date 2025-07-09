@@ -9,6 +9,9 @@ Automate the generation of email drafts in response to inbound messages, leverag
 ## ⚙️ System Architecture
 <img width="1182" alt="image" src="https://github.com/user-attachments/assets/c15153bb-a5f0-4db4-a54a-9bdd45ab0087" />
 
+## GPT Generated Response
+![image](https://github.com/user-attachments/assets/5c80abbb-6737-4272-9878-2904ffde4647)
+
 ### 🔄 Steps:
 
 1. **Trigger (Email Module)**
@@ -45,6 +48,7 @@ Automate the generation of email drafts in response to inbound messages, leverag
 - Add CRM syncing (e.g., CDK, VinSolutions)
 - Add customized DataStores to tailor responses
 - Add fallback logic for missing template scenarios
+
 
 ## ▶️ Video Demonstration 
 - [Link to Demo](https://drive.google.com/file/d/18yLiFyWatzX_zQ0PFpssrd-4tLAAeKq2/view?usp=sharing) 
